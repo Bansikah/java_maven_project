@@ -1,3 +1,3 @@
 # java_maven_project
 This is simple java maven project for github actions
-and edited version
+and edited version just another edit
